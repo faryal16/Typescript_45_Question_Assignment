@@ -1,0 +1,53 @@
+// Q# 23 Conditional Tests: Write a series of conditional tests.
+// Print a statement describing each test.
+//your prediction for the results of each test. 
+
+// statement # 1
+let fruite = "Apple"
+console.log("is fruite == 'Apple' I predict true")
+console.log(fruite == "Apple")
+
+// Statement # 2
+let soap= "lux"
+console.log("is soap == 'lux' I predict true")
+console.log(soap == "lux") 
+
+//Statement # 3
+let vegetable = "lady finger"
+console.log("is vegetable == 'lady finger' I predict true")
+console.log(vegetable == "lady finger")
+
+//Statement # 4
+let laptop = "ThinkPad"
+console.log("is laptop == 'ThinkPad' I predict true")
+console.log(laptop == "ThinkPad")
+
+// Statement # 5
+let book = "Math"
+console.log("is book == 'Math' I predict true")
+console.log(book == "Math")
+
+// Statement # 6
+let dress ="Skirt"
+console.log("is dress =='suite' I predict false")
+console.log(dress == "suite")
+
+// Statement # 7
+let num = 6
+console.log("is num != '6' I predict false")
+console.log(num != 6)
+
+// Statement # 8
+let  mobile = "motorola"
+console.log("is mobile == 'Nokia' I predict false")
+console.log(mobile == "Nokia")
+
+// Statement # 9
+let fish = "star fish"
+console.log("is fish != 'star fish' I predict false")
+console.log(fish != "star fish")
+
+// Statement # 10
+let year = 2024
+console.log("is year == 2023 I predict false")
+console.log(year == 2023)

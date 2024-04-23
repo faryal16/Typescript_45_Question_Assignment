@@ -1,0 +1,11 @@
+var a = 10;
+var b = 20;
+var c = 5;
+console.log("\n both are equal?");
+console.log((a < b) && (a > 5));
+console.log("\n are they not equal");
+console.log((a > b) && (b > c));
+console.log("\n are theses true?");
+console.log((a < b) || (b > c));
+console.log("\n these are false?");
+console.log((b < a) || (55 < b));
